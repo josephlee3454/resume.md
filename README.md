@@ -14,7 +14,6 @@ __________________________
 
 <h2>TECHNICAL SKILLS:</h2>
 <p>
-<ul>
 <ul style="list-style: none;"><li>Languages: Python, Javascript, HTML, CSS, SQL </li>
 <li>FrameWorks: Django, React, Docker</li>
 <li> Libraries & Environments: Express.js, Postgresql, django REST, CRUD, Pandas, Poetry, Selenium  <li>
